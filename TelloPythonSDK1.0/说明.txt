@@ -21,5 +21,5 @@ forward(距离)	前进
 back(距离)	后退
 cw(角度)	顺时针旋转
 ccw角度()	逆时针旋转
-flit(方向)	翻滚
+flip(方向)	翻滚
 set_speed(速度)	设置速度
