@@ -22,5 +22,5 @@ forward(distance)	forward
 back (distance)		back
 cw(angle) 		clockwise rotation
 ccw(angle) 		rotates counterclockwise
-flit(direction) 	tumbling
+flip(direction) 	flip
 set_speed(speed) 	setting speed
