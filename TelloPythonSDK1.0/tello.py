@@ -86,6 +86,7 @@ class tello:
         #
         self.addr = (self.host, self.port)
         self.udpClient = socket(AF_INET, SOCK_DGRAM)
+        self.send_data("command")
         print("=" * 20, "tello_withPython By Q.Z.Lin", "=" * 20)
         print("If you have any advice, please send an email to 13439402428@163.com\n")
 
