@@ -5,7 +5,7 @@ high = 0
 
 
 #   By Q.Z.Lin  Do not use for commercial purposes!
-#   If you have any advice, please send an email to 13439402428@163.com
+#   If you have any advice, please send an email to qzlin01@163.com
 
 class tello:
     def take_off(self):
@@ -88,7 +88,7 @@ class tello:
         self.udpClient = socket(AF_INET, SOCK_DGRAM)
         self.send_data("command")
         print("=" * 20, "tello_withPython By Q.Z.Lin", "=" * 20)
-        print("If you have any advice, please send an email to 13439402428@163.com\n")
+        print("If you have any advice, please send an email to qzlin01@163.com\n")
 
 #   By Q.Z.Lin  Do not use for commercial purposes!
 #   By Q.Z.Lin  Do not use for commercial purposes!
