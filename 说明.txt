@@ -1,0 +1,25 @@
+	本模块由Q.Z.Lin编写开发，可以实现利用python语言直接对Tello无人机进行编程而不需要进
+行繁琐的配置。以下是使用说明：
+	1、确保python已经安装，或访问www.python.org进行安装
+	2、新建python程序，并使用"import tello"以导入模块
+	3、开始编程！
+请注意：您需要具有一定的python语言基础以便编程!
+*
+*
+*
+*
+*
+*
+函数列表：
+take_off()	起飞
+land()		降落
+up(距离)	上升
+down(距离)	下降
+left(距离)	左转
+right(距离)	右转
+forward(距离)	前进
+back(距离)	后退
+cw(角度)	顺时针旋转
+ccw角度()	逆时针旋转
+flip(方向)	翻滚
+set_speed(速度)	设置速度
