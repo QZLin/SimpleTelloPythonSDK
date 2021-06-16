@@ -24,3 +24,5 @@ cw(angle) 		clockwise rotation
 ccw(angle) 		rotates counterclockwise
 flip(direction) 	flip
 set_speed(speed) 	setting speed
+
+**the unit of distance is centimeter
